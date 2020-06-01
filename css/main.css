@@ -1,0 +1,33 @@
+#logo{
+	height: 120px;
+	width:auto;
+	background-color: #fff;
+}
+.company-name{
+	font-size: 70px;
+	font-family: "Times New Roman", Times, serif;
+	margin-left: 150px;
+}
+#login_register{
+	padding-top: 10px;
+	float: right;
+	//clear: both;
+}
+
+#login_register a{
+	font-color: red;
+}
+ul li {
+	list-style-type: none;
+}
+
+.remove_bullet{
+	color: #8585ad;
+}
+.remove_bullet:hover{
+color:grey;
+}
+
+.min-height{
+		min-height: 300px;
+	}
